@@ -5,17 +5,20 @@
   Since 2011, our apps have been trusted by millions of users worldwide.
 
 ## Our Apps
-**[MacCleaner Pro](https://nektony.com/mac-cleaner-pro)**  - All-in-one toolkit to clean, optimize, and speed up your Mac 
+**[MacCleaner Pro](https://nektony.com/mac-cleaner-pro)** - All-in-one toolkit to clean, optimize, and speed up your Mac 
 
 **[App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner)** - App manager to remove apps, manage extensions and startup items, and track updates in one place.
 
-**[Duplicate File Finder](https://nektony.com/duplicate-finder-remover)** - Find and remove duplicate files to free up disk space 
+**[Duplicate File Finder](https://nektony.com/duplicate-finder-free)** - Find and remove duplicate files to free up disk space 
 
-**[Disk Space Analyzer](https://nektony.com/disk-expert)** – Visualize disk usage and find large files to free up storage
+**[Disk Space Analyzer](https://nektony.com/disk-expert)** - Visualize disk usage and find large files to free up storage
                                                                                      
-  **[Firewally](https://nektony.com/firewally)** – Monitor and control network
+**[Firewally](https://nektony.com/firewally)** - Monitor and control network
   connections on your Mac
 
+ ## Open Source                                                                                      
+                                                                        
+  **[NK Image Exporter](https://github.com/Nektony/NK-Image-Exporter)** - Figma plugin that batch-exports tagged layers as Xcode-ready .imageset assets with dark mode support
   
 ## Links
 
